@@ -2,6 +2,9 @@
     .my_logo{
         flex-basis: 48%;
     }
+    .search_bar{
+        flex-basis: 42%;
+    }
     .top_navigation{
         flex-direction: row !important;
         padding: 1rem 0 !important;
