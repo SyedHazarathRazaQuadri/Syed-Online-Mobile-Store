@@ -14,7 +14,7 @@ function TopNavbar() {
                         <img src="../images/My_photo.jpg" className="h-8 pt-1" alt="Flowbite Logo" />
                         <span style={{fontFamily: 'cursive'}} className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Syed Hazrath</span>
                     </a>
-                    <div className="flex md:order-2">
+                    <div className="search_bar flex md:order-2">
                     <div className="relative md:block">
                     <div className="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none">
                         <svg className="w-4 h-4 text-gray-500 dark:text-gray-400" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
