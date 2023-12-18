@@ -1,0 +1,94 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Apple 14 5G Phone 12GB 256GB",
+            "mobile_image": "../images/apple_14.png",
+            "price": 79999
+        },
+        {
+            "id": 2,
+            "name": "One Plus 11 R 5G Phone 16GB 128GB",
+            "mobile_image": "../images/iphone-14pro.png",
+            "price": 99999
+        },
+        {
+            "id": 3,
+            "name": "Apple 15 5G Phone 8GB 256GB",
+            "mobile_image": "../images/iphone_15.png",
+            "price": 89999
+        },
+        {
+            "id": 4,
+            "name": "Apple 14 Pro 5G Phone 12GB 128GB",
+            "mobile_image": "../images/apple14plus.png",
+            "price": 79999
+        },
+        {
+            "id": 5,
+            "name": "Apple 14 Plus 5G Phone 12GB 256GB",
+            "mobile_image": "../images/oneplus11r.png",
+            "price": 129999
+        },
+        {
+            "id": 6,
+            "name": "Oppo Find N 2 5G Phone 16GB 128GB",
+            "mobile_image": "../images/oppofindn2.png",
+            "price": 59999
+        },
+        {
+            "id": 7,
+            "name": "Oppo Find N 2 5G Phone 16GB 128GB",
+            "mobile_image": "../images/oppofindn2.png",
+            "price": 59999
+        },
+        {
+            "id": 8,
+            "name": "One Plus 11 5G Phone 8GB 128GB",
+            "mobile_image": "../images/oneplus11r.png",
+            "price": 109999
+        },
+        {
+            "id": 9,
+            "name": "Oppo Reno 8 5G Phone 8GB 128GB",
+            "mobile_image": "../images/opporeno8.png",
+            "price": 69999
+        },
+        {
+            "id": 10,
+            "name": "Realme 10 Pro 5G Phone 12GB 128GB",
+            "mobile_image": "../images/realme10pro.png",
+            "price": 49999
+        },
+        {
+            "id": 11,
+            "name": "Realme C 12 5G Phone 12GB 128GB",
+            "mobile_image": "../images/realmec12.png",
+            "price": 19999
+        },
+        {
+            "id": 12,
+            "name": "Vivo V 27 Pro 5G Phone 28GB 258GB",
+            "mobile_image": "../images/vivov27pro.png",
+            "price": 29999
+        },
+        {
+            "id": 13,
+            "name": "Redmi 12 Pro 5G Phone 12GB 128GB",
+            "mobile_image": "../images/redmi12pro.png",
+            "price": 59999
+        },
+        {
+            "id": 14,
+            "name": "Redmi Note 12 5G Phone 12GB 128GB",
+            "mobile_image": "../images/redminote12.png",
+            "price": 59999
+        },
+        {
+            "id": 15,
+            "name": "Samsung A 54 5G Phone 12GB 128GB",
+            "mobile_image": "../images/samsunga54.png",
+            "price": 29999
+        }
+    ]
+}

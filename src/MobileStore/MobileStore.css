@@ -1,0 +1,14 @@
+@media (max-width: 991px){
+    .my_logo{
+        flex-basis: 48%;
+    }
+    .top_navigation{
+        flex-direction: row !important;
+        padding: 1rem 0 !important;
+        flex-basis: 100%;
+        justify-content: center;
+    }
+    .top_navigation li{
+        padding: 0 0.4rem;
+    }
+}
