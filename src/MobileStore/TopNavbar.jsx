@@ -2,8 +2,8 @@ import React from 'react';
 import './MobileStore.css';
 import { useSelector } from 'react-redux';
 
-function TopNavbar({ products, onSearch }) {
-    const cartCount = useSelector((item) => item.CartReducer.cartValues.length);
+function TopNavbar() {
+    const cartCount = useSelector((item) => item.CartReducer.totalQuantity);
     const totalPrice = useSelector((item) =>item.CartReducer.totalPrice);
     return (
         <>
