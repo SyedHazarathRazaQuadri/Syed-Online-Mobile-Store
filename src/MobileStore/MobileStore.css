@@ -15,3 +15,17 @@
         padding: 0 0.4rem;
     }
 }
+.my_logo{
+    flex-basis: 36%;
+}
+.top_navigation{
+    flex-basis: 62%;
+}
+.products_search_bar{
+    width: 90%;
+    margin: auto;
+    padding-top: 1rem;
+}
+.products_search_bar_icon{
+    padding-top: 1rem;
+}
